@@ -59,7 +59,7 @@ ArrayList   VAlue  */
 
 /*  Add  GUI  if  necessary  */
 
-<?JOS>
+</JOS>
 
 
 Output:

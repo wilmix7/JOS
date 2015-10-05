@@ -12,6 +12,8 @@ So  that   we  can   call   JDollar class file   or  C@  class file  in  JOS  Pr
 JOS  follow   MVC   for   OS  Design.
 But   View   will   be  Jdollar  and  C@.
 
+It  is   ranked  as NO:9 Advanced Technology.  
+
 
 SYNTAX for  controller:
 ---------------------

@@ -1,0 +1,32 @@
+JOS
+---
+
+Question: Write   a    JOS  short  code    to  generate   a   Operating  Systems  GUI  of  type  SLIDE
+-------------------------------------------------------------------------------------------------------
+
+Slide.OS
+---------
+
+<JOS>
+
+@Pack
+
+
+<!
+<AList>   ar  =  <NEW>  <AList>();
+
+ar.add("SLIDE");
+
+
+WCONSOLE. Validate( ar);
+!>
+
+</JOS> 
+
+
+Output:
+--------
+
+Displays   a    GUI  with   SLide  give  choice for  the  users  to operate....
+
+

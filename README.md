@@ -5,12 +5,12 @@ JOS:
 
 Introduction:
 --------------
-JOS  is  invented   in  JDollar by  wilmix  jemin  j  at 2015  and  is  used    only   for the    construction   of  Operating  Systems
+JOS  is  invented   in  JDollar  by  wilmix  jemin  j  at 2015  and  is  used    only   for the    construction   of  Operating  Systems
 Using    JOS   One  can create   an  OS   with  in  5  or 10 or  30 minutes. JOS    takes   only  .OS  Extension
-file  and  converts  to  byte code  which  can  directly   interact  with  C@ , and  JDollar  class file.
-So  that   we  can   call   JDollar class file   or  C@  class file  in  JOS  Program.
+file  and  converts  to  byte code  completly and  JDollar  class file.
+So  that   we  can   call   JDollar class file 
 JOS  follow   MVC   for   OS  Design.
-But   View   will   be  Jdollar  and  C@.
+But   View   will   be  Jdollar.
 
 It  is   ranked  as NO:9 Advanced Technology.  
 
@@ -82,7 +82,7 @@ Advantages:
 5)  We  can  create  your  own  GUI   for
 os  design  and  add  it  in  Model.
 6)  This   will  be   more  useful    to  deliver  a  Product   with  in  few hours.
-
+7)  JDollar  is  a  High  level  langauage  can   used  to  convert  a  code  to  object  file.
 
 
 

@@ -85,7 +85,7 @@ os  design  and  add  it  in  Model.
 7)  JDollar  is  a  High  level  langauage  can   used  to  convert  a  code  to  object  file.
 
 
-
+Note:  This   is  part  of  JDollar version 1(v.1)
 
 
 
